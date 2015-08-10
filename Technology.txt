@@ -1,0 +1,6 @@
+Android Development: Implementing a simple Client-Server model
+http://www.hassanpur.com/blog/2010/09/android-development-implementing-a-simple-client-server-model/
+Verifying Back-End Calls from Android Apps
+http://android-developers.blogspot.in/2013/01/verifying-back-end-calls-from-android.html
+Mobile Web Application Best Practices
+http://www.w3.org/TR/mwabp/
